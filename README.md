@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @RawanAbduEssa
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Cyber security (Kali linux)
-- 💞️ I’m looking to collaborate on ...
 - 📫 reach me on my Email RawanAbduEssa@outlook.com
 - or on my phone number +966 55 666 3645
 
